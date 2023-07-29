@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  RMC_Thesis_CS6200
+//  Winclusive
 //
-//  Created by Rebecca McCarthy on 15/09/2022.
+//  Created by Rebecca Rose McCarthy.
 //
 
 import UIKit

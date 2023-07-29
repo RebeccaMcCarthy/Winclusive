@@ -1,10 +1,8 @@
 //
 //  Subsections.swift
-//  RMC_Thesis_CS6200
+//  Winclusive
 //
 //  Created by Rebecca Rose McCarthy
-//  Student Number: 121105576
-//  Course Code: MScIM22
 //
 //
 
@@ -17,12 +15,12 @@ class Subsections {
     
     //init-s
     init(){
-        self.topic            = "John Doe"
+        self.topic           = "John Doe"
         self.description     = "None"
     }
     
     init(topic:String, description:String) {
-        self.topic            = topic
+        self.topic           = topic
         self.description     = description
     }
 }

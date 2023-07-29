@@ -1,10 +1,8 @@
 //
 //  CustomSegue.swift
-//  RMC_Thesis_CS6200
+//  Winclusive
 //
 //  Created by Rebecca Rose McCarthy
-//  Student Number: 121105576
-//  Course Code: MScIM22
 //
 //  Source: Curtis, S. (n.d.). Mycustomsegueuistoryboardsegue.
 //  https://gist.github.com/stevencurtis/dc4cfa0fc2ea3d1b01eec13ac636f739

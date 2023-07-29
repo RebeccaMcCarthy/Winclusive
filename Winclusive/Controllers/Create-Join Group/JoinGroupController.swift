@@ -1,10 +1,8 @@
 //
 //  JoinGroupController.swift
-//  RMC_Thesis_CS6200
+//  Winclusive
 //
 //  Created by Rebecca Rose McCarthy
-//  Student Number: 121105576
-//  Course Code: MScIM22
 //
 //
 
