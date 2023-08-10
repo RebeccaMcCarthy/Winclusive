@@ -10,7 +10,7 @@ Here you will see how I developed the application that takes on the appearance o
 
 ## Demo
 
-![Winclusive Demo](winclusive-demo.GIF) / ![](winclusive-demo.GIF)
+![Winclusive Demo](winclusive-demo.GIF)
 
 
 ## Features
