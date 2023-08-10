@@ -28,6 +28,6 @@ Here you will see how I developed the application that takes on the appearance o
 
 | Colour             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Main Colour | ![#8292A9](https://via.placeholder.com/10/0a192f?text=+) #8292A9 |
+| Main Colour | ![#8292A9](https://via.placeholder.com/10/8292A9?text=+) #8292A9 |
 
 
